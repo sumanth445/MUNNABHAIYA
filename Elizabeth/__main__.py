@@ -45,14 +45,7 @@ PM_START_TEXT = f"""
 """
 
 buttons = [[InlineKeyboardButton(text="➡️ HELP AND COMMANDS ⬅️",
-                                  callback_data="help_back"),
-]]
-
-buttons += [[InlineKeyboardButton(text="🌍 ADD ME TO YOUR GROUP 🌍",
-                                  url="t.me/MUNNABHAYIA_BOT?startgroup=true)]]
-
-buttons += [[InlineKeyboardButton(text="🔒 CLOSE THE MENU 🔒",
-                                  callback_data="close_menu")]]
+                                  callback_data="help_back")]]
 
 
 HELP_STRINGS = f"""
