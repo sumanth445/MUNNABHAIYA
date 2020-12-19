@@ -39,8 +39,8 @@ from Elizabeth.modules.helper_funcs.alternate import typing_action
 
 
 PM_START_TEXT = f"""
-`Hi..Thammudu Ela unnav` 👀
-`I'm` Telusu ga Na peru Munna Bhaiya KING OF MIRZAPUR
+`Hi..Thammudu Ela unnav`
+Telusu ga Na peru Munna Bhaiya KING OF MIRZAPUR
 `Nenu Vunadhi Neeku Help cheyadhaniki Kindha HELP Ani Oka button Vundhi khadha dhani pina Okasari Click chey`
 """
 
@@ -164,7 +164,7 @@ def start(update, context):
                 disable_web_page_preview=False,
             )
     else:
-        update.effective_message.reply_text("MARICHIPOYA VA NENU AMARUDINI")
+        update.effective_message.reply_text("MARICHIPOYA VA NENU AMARUDINI NAKKU CHAVU LEDHU")
 
 
 def send_start(update, context):
