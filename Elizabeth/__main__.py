@@ -39,9 +39,9 @@ from Elizabeth.modules.helper_funcs.alternate import typing_action
 
 
 PM_START_TEXT = f"""
-`Hi..Welcome` 👀
-`I'm` [ELIZABETH🍀](https://telegra.ph/file/281aaa468756db0769df0.jpg)
-`I'm here to help you manage your groups.. Click Help button to find out more about how to use me to my full potential..`
+`Hi..Thammudu Ela unnav` 👀
+`I'm` Telusu ga Na peru Munna Bhaiya KING OF MIRZAPUR
+`Nenu Vunadhi Neeku Help cheyadhaniki Kindha HELP Ani Oka button Vundhi khadha dhani pina Okasari Click chey`
 """
 
 buttons = [[InlineKeyboardButton(text="➡️ HELP AND COMMANDS ⬅️",
@@ -49,22 +49,15 @@ buttons = [[InlineKeyboardButton(text="➡️ HELP AND COMMANDS ⬅️",
 ]]
 
 buttons += [[InlineKeyboardButton(text="🌍 ADD ME TO YOUR GROUP 🌍",
-                                  url="t.me/Elizabeth_TgBot?startgroup=true"),
-]]
-
-buttons += [[InlineKeyboardButton(text="💾SOURCE CODE",
-                                  url="https://github.com/P-RINC-E/ELIZABETH"),
-             InlineKeyboardButton(text="🌳SUPPORT",
-                                  url="https://t.me/ELIZABETH_SUPPORT"),
-]]
+                                  url="t.me/MUNNABHAYIA_BOT?startgroup=true)]]
 
 buttons += [[InlineKeyboardButton(text="🔒 CLOSE THE MENU 🔒",
                                   callback_data="close_menu")]]
 
 
 HELP_STRINGS = f"""
-`Hi.. I'm` [ELIZABETH🍀](https://telegra.ph/file/281aaa468756db0769df0.jpg)
-`Click on the buttons below to get documentation about specific modules..`"""
+`Chudhu Babu Kindha Unna Options Ni select Chesuko.Nannu Use chesina Taruvatha Mee friends Ki Khudha Share Chey`
+`Chala Badhaga Untundhi Neeku Arahata Unna.Share Cheyakapothey Chala Badhaga Untundhi`"""
 
 
 IMPORTED = {}
