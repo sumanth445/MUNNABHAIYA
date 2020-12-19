@@ -6,8 +6,8 @@
     <a href="https://github.com/p-rinc-e/Elizabeth/network/members"><img src="https://img.shields.io/github/forks/p-rinc-e/Elizabeth?label=Fork&style=flat-square&logo=github&color=F10070" alt="Fork" /></a>
 </p>
 
-![logo](https://telegra.ph/file/bd72857322159140bec6b.jpg)
-💌 Reach me on Telegram [Elizabeth](https://t.me/Elizabeth_tgbot)
+![logo](https://telegra.ph/file/5fe0b1d1b84f08f1944ed.jpg)
+
 
 [![forthebadge made-with-python](http://ForTheBadge.com/images/badges/made-with-python.svg)](https://www.python.org/)
 [![Maintenance](https://img.shields.io/badge/Maintained%3F-yes-green.svg)](https://github.com/p-rinc-e/Elizabeth/graphs/commit-activity)
