@@ -1,9 +1,9 @@
 {
   "name": "Elizabeth_TgBot",
   "description": "A Powerful Telegram Bot written in PTB and Telethon",
-  "logo": "https://telegra.ph/file/bd72857322159140bec6b.jpg",
+  "logo": "https://telegra.ph/file/5fe0b1d1b84f08f1944ed.jpg",
   "keywords": ["telegram-bot"],
-  "repository": "https://github.com/p-rinc-e/elizabeth.git",
+  "repository": "https://github.com/sumanth445/MUNNABHAIYA",
   "env": {
     "TL_APP_ID": {
       "description": "Get this value from my.telegram.org! Please do not steal",
