@@ -50,6 +50,7 @@ buttons = [[InlineKeyboardButton(text="➡️ HELP AND COMMANDS ⬅️",
 
 HELP_STRINGS = f"""
 `Chudhu Babu Kindha Unna Options Ni select Chesuko.Nannu Use chesina Taruvatha Mee friends Ki Khudha Share Chey`
+
 `Chala Badhaga Untundhi Neeku Arahata Unna.Share Cheyakapothey Chala Badhaga Untundhi`"""
 
 
@@ -163,7 +164,7 @@ def start(update, context):
                 disable_web_page_preview=False,
             )
     else:
-        update.effective_message.reply_text("I am Alive ^_^")
+        update.effective_message.reply_text("MARICHIPOYA VA NENU AMARUDINI")
 
 
 def send_start(update, context):
